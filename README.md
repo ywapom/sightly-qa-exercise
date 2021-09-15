@@ -1,0 +1,1 @@
+# sightly-qa-exercise
